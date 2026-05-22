@@ -11,3 +11,8 @@
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5t4t1cV01d&bg_color=000000&color=E2C17D&line=AEE5FF&point=FFFFFF&area_color=2A415A&area=true&hide_border=true&custom_title=5t4t1cV01d contributions graph" alt="Gráfica de Actividad de GitHub - Solo Leveling Style">
+</p>
