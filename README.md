@@ -1,9 +1,28 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&height=70&repeat=false&lines=%3E+Hey!+I'm+5t4t1cV01d">
-    <img alt="Hey! I'm 5t4t1cV01d" src="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=2000&pause=500&color=070707&center=true&vCenter=true&width=600&height=70&repeat=false&lines=%3E+Hey!+I'm+5t4t1cV01d">
+    <!-- Modo oscuro -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=3300&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&height=70&repeat=false&lines=%3E+Hey!+I'm+5t4t1cV01d+👋">
+    <!-- Modo claro -->
+    <img alt="Hey! I'm 5t4t1cV01d" src="https://readme-typing-svg.demolab.com?font=VT323&size=36&duration=3300&pause=500&color=070707&center=true&vCenter=true&width=600&height=70&repeat=false&lines=%3E+Hey!+I'm+5t4t1cV01d+👋">
   </picture>
 </h1>
+
+<p align="center">
+  <picture>
+    <!-- Modo oscuro -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Systems+Engineer;Junior+Cybersecurity+Analyst;Learn+%7C+Break+%7C+Repeat"
+    >
+    <!-- Modo claro -->
+    <img 
+      alt="Typing SVG" 
+      src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Systems+Engineer;Junior+Cybersecurity+Analyst;Learn+%7C+Break+%7C+Repeat"
+    >
+  </picture>
+</p>
+
+---
 
 <table>
   <tr>
@@ -19,7 +38,6 @@
   </tr>
 </table>
 
----
 
 ### 🛡️ Cybersecurity Platforms
 
@@ -28,5 +46,3 @@
   <img src="https://www.hackthebox.eu/badge/image/2727664" alt="Hack The Box Badge">
 </a>
 </p>
-
----
