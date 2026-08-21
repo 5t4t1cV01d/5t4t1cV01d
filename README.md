@@ -43,6 +43,6 @@
 
 <p align="left">
 <a href="https://app.hackthebox.com/users/2727664" target="_blank">
-  <img src="https://www.hackthebox.eu/badge/image/2727664" alt="Hack The Box Badge">
+  <img src="https://www.hackthebox.eu/badge/image/2727664?v=2" alt="Hack The Box Badge">
 </a>
 </p>
